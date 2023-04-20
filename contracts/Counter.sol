@@ -6,7 +6,7 @@ contract Counter {
 
     // Function to get the current count
     function get() public view returns (uint) {
-        return count;
+        return count;   
     }
 
     // Function to increment count by 1
